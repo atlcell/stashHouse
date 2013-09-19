@@ -14,8 +14,8 @@ To install, you simply need to drag and drop the whole repo into your servers ro
 For more information regarding the s3sync library refer to the s3sync documentation.
 
 ssh into your server and run it by simply typing
-...
+```
 sh StashHouse.sh
-...
+```
 
 For automated running, schedule the task in a cronjob
