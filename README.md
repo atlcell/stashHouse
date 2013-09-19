@@ -15,7 +15,8 @@ For more information regarding the s3sync library refer to the s3sync documentat
 
 ssh into your server and run it by simply typing
 ```
-sh StashHouse.sh
+$ cd /
+$ sh StashHouse.sh
 ```
 
 For automated running, schedule the task in a cronjob
